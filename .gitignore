@@ -199,6 +199,7 @@ parts/
 var/
 sdist/
 develop-eggs/
+app/bower_components/
 .installed.cfg
 
 # Installer logs
